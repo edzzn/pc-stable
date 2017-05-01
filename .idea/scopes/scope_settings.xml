@@ -1,0 +1,7 @@
+<component name="DependencyValidationManager">
+  <state>
+    <unnamed_scope value="src[tetrad-lib]:edu.cmu.tetrad.search.FasStableConcurrent" />
+    <unnamed_scope value="src[tetrad-lib]:edu.cmu.tetrad.search.MeekRules" />
+    <unnamed_scope value="src[tetrad-lib]:edu.cmu.tetrad.search.PcStable" />
+  </state>
+</component>

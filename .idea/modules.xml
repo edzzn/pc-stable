@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/causal-cmd/causal-cmd.iml" filepath="$PROJECT_DIR$/causal-cmd/causal-cmd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tetrad.iml" filepath="$PROJECT_DIR$/.idea/tetrad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetrad-gui/tetrad-gui.iml" filepath="$PROJECT_DIR$/tetrad-gui/tetrad-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetrad-lib/tetrad-lib.iml" filepath="$PROJECT_DIR$/tetrad-lib/tetrad-lib.iml" />
+    </modules>
+  </component>
+</project>
